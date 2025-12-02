@@ -35,7 +35,7 @@ This project visualizes the performance difference between Redis and PostgreSQL 
 - Production-ready Nginx build for frontend  
 
 ---
-
+```sh
 ##  Project Structure
 redisImp/
 ├── backend/
@@ -49,7 +49,7 @@ redisImp/
 ├── db/
 │ └── seed.sql # 1M metrics + 50k items
 └── docker-compose.yml
-
+```
 ---
 
 ## 🐳 Run With Docker (Recommended)
