@@ -54,8 +54,9 @@ redisImp/
 
 ## 🐳 Run With Docker (Recommended)
 
-### 1. Start everything  
+  
 ```sh
+### 1. Start everything
 docker compose up --build
 
 2. Access the services
