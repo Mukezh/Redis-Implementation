@@ -56,7 +56,7 @@ redisImp/
 
   
 ```sh
-### 1. Start everything
+1. Start everything
 docker compose up --build
 
 2. Access the services
