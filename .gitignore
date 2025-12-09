@@ -44,3 +44,6 @@ redis-data/
 # Misc
 *.swp
 *.tmp
+
+config.yaml
+legionAws.pem
