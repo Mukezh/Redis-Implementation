@@ -11,7 +11,7 @@ export interface StreamsResponse {
   cache: string;
 }
 
-const API = "http://localhost:4000/api/streams";
+const API = "https://redis-implementation-vf3d.onrender.com/api/streams";
 
 export const getFromPostgres = async (
   limit = 500,
