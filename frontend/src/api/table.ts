@@ -14,7 +14,7 @@ export interface TableResponse {
   cache: string;
 }
 
-const API = "http://localhost:4000/api/table";
+const API = "https://redis-implementation-vf3d.onrender.com/api/table";
 
 export const getTableFromPostgres = async (
   page = 1,
